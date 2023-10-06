@@ -47,9 +47,19 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+
+<br/>
+<h3 align="left" >Connect with me 🤝 </h3>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/federico-murru-b2baba19a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/federico-murru-b2baba19a/](https://www.linkedin.com/in/federico-murru-b2baba19a/)" height="30" width="40" />
-  </a>
+
+ <div align="left"  class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" href="https://twitter.com/FedericoMurru3" target="_blank" >
+			<img src="https://user-images.githubusercontent.com/22180351/208762312-9261f93c-fb43-47e2-9ef6-294f0dbb32d4.png"></a>
+      <a style="margin-left: 10px;" href="https://www.linkedin.com/in/federico-murru-b2baba19a/" target="_blank" >
+       <img src="https://user-images.githubusercontent.com/22180351/208762097-681abcdc-df56-41ba-ad03-a9d7d81d8e4c.png"></a>
+       <a style="margin-left: 10px;" href="https://github.com/fedemurru?tab=repositories" target="_blank" >
+		   <img src="https://user-images.githubusercontent.com/22180351/208761837-6af02b8c-aedb-4610-ae99-b0d773f2c8d1.png"></a>
+      </div>
+
 </p>
