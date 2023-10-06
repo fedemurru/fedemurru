@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/fedemurru">👨‍💻 All of my projects are available here on GitHub</a>
+  <a href="https://github.com/fedemurru?tab=repositories">👨‍💻 All of my projects are available here on GitHub</a>
 </p>
 
 <p align="left">
