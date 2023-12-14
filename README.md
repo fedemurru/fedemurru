@@ -2,14 +2,6 @@
 <h3 align="center">A Junior Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"≥
 
-<style>
-    .skill-icons a {
-      display: inline-block;
-      margin: 10px;
-      vertical-align: middle;
-    }
-  </style>
-
 <p align="left">
   <a href="https://github.com/chingu-voyages/v46-tier1-team-04" target="blank">🔭 I'm currently working on Chingu and Aulab</a>
 </p>
@@ -24,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 	
- <div class="skill-icons">
+ <div style="display: inline-block; text-align: center;">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
     <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
