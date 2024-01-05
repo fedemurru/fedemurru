@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">A Junior Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)"≥
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)"≥
 
 <p align="left">
   <a href="https://github.com/chingu-voyages/v46-tier1-team-04" target="blank">🔭 I'm currently working on Chingu and Aulab</a>
