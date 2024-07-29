@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"≥
 
 <p align="left">
-  <a href="https://github.com/chingu-voyages/v46-tier1-team-04" target="blank">🔭 I'm currently working on Chingu and Aulab</a>
+  <a href="https://github.com/chingu-voyages/v46-tier1-team-04" target="blank">🔭 I'm currently working as a freelancer</a>
 </p>
 
 <p align="left">
@@ -11,14 +11,12 @@
 </p>
 
 <p align="left">
-  <strong>🌱 I'm currently learning:</strong> Javascript and React.js
+  <strong>🌱 I'm currently learning:</strong> Netxt.js and Typescript
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 	
  <div style="display: inline-block; text-align: center;">
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
     <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
     <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
     <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
