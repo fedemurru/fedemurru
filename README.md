@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  <strong>🌱 I'm currently learning:</strong> Typescript
+  <strong>🌱 I'm currently learning:</strong> <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
